@@ -387,3 +387,203 @@ span {
 /* Skills Section Code  */
 
 
+
+
+
+
+
+
+
+
+/* Contact Section Code */
+
+.contact form {
+    max-width: 80rem;
+    margin: 1rem auto;
+    margin-bottom: 3rem;
+    text-align: center;
+}
+
+.contact .btn {
+    position: relative;
+    display: inline-flex;
+    padding: 1rem 3rem;
+    margin-top: 2rem;
+    background: var(--main-color);
+    color: var(--bg-color);
+    border-radius: 4rem;
+    box-shadow: none;
+    font-size: 1.6rem;
+    font-weight: 600;
+    letter-spacing: 0.1rem;
+}
+
+.contact .btn:hover {
+    cursor: pointer;
+    box-shadow: 0 0 1.6rem var(--main-color);
+    transition: 0.3s ease;
+}
+
+.contact {
+    background: var(--bg-color);
+}
+
+.contact h2 {
+    margin-bottom: 3rem;
+    color: var(--main-color);
+}
+
+.contact form .input-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    column-gap: 0.8rem;
+}
+
+.contact form .input-box input,
+.contact form textarea {
+    width: 100%;
+    padding: 1.5rem;
+    font-size: 1.6rem;
+    color: var(--text-color);
+    background: var(--bg-color);
+    border-radius: 0.8rem;
+    border: 0.25rem solid var(--main-color);
+    margin: 0.7rem 0;
+    resize: none;
+}
+
+.contact form .input-box input::placeholder,
+.contact form textarea::placeholder {
+    color: var(--text-color);
+}
+
+
+
+
+
+
+
+
+
+
+/* Footer Section Code */
+
+.footer {
+    background: var(--main-color);
+    color: var(--bg-color);
+    text-align: center;
+    padding: 2rem 0;
+    position: relative;
+}
+
+.footer-row {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    max-width: 900px;
+    margin: 0 auto;
+    gap: 2rem;
+}
+
+.footer .copyright,
+.footer .social-media,
+.footer .go-up {
+    margin: 0;
+}
+
+.footer p {
+    font-size: 1.6rem;
+}
+
+.footer a {
+    color: var(--bg-color);
+    font-weight: 700;
+    transition: 0.3s ease;
+}
+
+.footer a:hover {
+    color: var(--text-color);
+}
+
+.go-up {
+    position: static;
+    bottom: 2rem;
+    right: 2rem;
+}
+
+.go-up-link {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 48px;
+    height: 48px;
+    background: var(--main-color);
+    color: var(--bg-color);
+    border-radius: 50%;
+    font-size: 2.4rem;
+    border: 2px solid var(--main-color);
+    transition: 0.3s;
+}
+
+.go-up-link:hover {
+    background: var(--main-color);
+    color: var(--bg-color);
+    box-shadow: 0 0 12px var(--bg-color);
+}
+
+.go-up-link i {
+    color: var(--bg-color);
+}
+
+
+
+
+
+
+
+
+/* Responsive Design Code */
+
+@media (width: 1200px) {
+    html {
+        font-size: 55%;
+    }
+}
+
+
+@media (width: 992px) {
+    .header {
+        padding: 2rem 3%;
+    }
+
+    .logo {
+        font-size: 2.5rem;
+    }
+    
+    .navbar {
+        font-size: 1.6rem;
+    }
+
+    section {
+        padding: 10rem 3%;
+    }
+
+    .projects {
+        padding: 0 3%;
+    }
+    .contact form .input-box input {
+        width: 100%;
+    }
+
+    .contact form textarea {
+        width: 100%;
+    }
+
+    .footer-row {
+        padding: 0 3%;
+    }
+}
+
+@media (width: 991px) {
+}

@@ -6,24 +6,29 @@ This repository contains the completed tasks for the **CodSoft Level 1 Web Devel
 
 ## ✅ Task 1: Personal Portfolio Website
 
-A simple and responsive personal portfolio website built using **HTML and CSS**.
-
-### 🔹 Features:
-- Home Section with Name/Title
-- About Section with Image and Bio
-- Projects Section with Screenshots and Descriptions
-- (Skills, Resume, Contact, and Footer - in progress)
+A clean and responsive personal portfolio website built using **HTML and CSS**. It showcases personal information, projects, and a working contact form connected to **Google Sheets** using **Apps Script**.
 
 📂 Folder: `task-1-portfolio/`
+
+### 🔹 Completed Features:
+- ✅ Home Section with Name and Tagline
+- ✅ About Section with Image and Short Bio
+- ✅ Projects Section with Titles, Descriptions, and Images
+- ✅ Contact Section with Working Form (Google Sheets backend)
+- ✅ Footer with Social Links and Scroll to Top
+
+⚠️ **Skills Section**: *In progress*
 
 > Live Preview (optional): *Add GitHub Pages or Netlify link here once hosted*
 
 ---
 
 ## 🚧 Task 2: Landing Page  
+📂 Folder: `task-2-landing-page/`  
 Coming soon...
 
 ## 🚧 Task 3: Calculator  
+📂 Folder: `task-3-calculator/`  
 Coming soon...
 
 ---
@@ -31,6 +36,7 @@ Coming soon...
 ### 👨‍💻 Built With:
 - HTML5
 - CSS3
+- Google Apps Script (for contact form backend)
 - Visual Studio Code
 - Git & GitHub
 
