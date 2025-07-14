@@ -13,13 +13,10 @@ A clean and responsive personal portfolio website built using **HTML and CSS**. 
 ### 🔹 Completed Features:
 - ✅ Home Section with Name and Tagline
 - ✅ About Section with Image and Short Bio
+- ✅ Skills Section with Categorized Skill Highlights 
 - ✅ Projects Section with Titles, Descriptions, and Images
 - ✅ Contact Section with Working Form (Google Sheets backend)
 - ✅ Footer with Social Links and Scroll to Top
-
-⚠️ **Skills Section**: *In progress*
-
-> Live Preview (optional): *Add GitHub Pages or Netlify link here once hosted*
 
 ---
 
