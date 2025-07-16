@@ -18,22 +18,34 @@ A clean and responsive personal portfolio website built using **HTML and CSS**. 
 - ✅ Contact Section with Working Form (Google Sheets backend)
 - ✅ Footer with Social Links and Scroll to Top
 
+> 💡 Live Preview (optional): _Add GitHub Pages or Netlify link once hosted_
+
+📌 **Status**: Task 1 is functionally complete — polishing responsiveness
+
 ---
 
 ## 🚧 Task 2: Landing Page  
 📂 Folder: `task-2-landing-page/`  
 Coming soon...
 
-## 🚧 Task 3: Calculator  
-📂 Folder: `task-3-calculator/`  
-Coming soon...
+## ⚒️ Task 3: Calculator  
+
+Basic calculator interface built using **HTML** and **CSS**. JavaScript functionality will be added next.
+
+📂 Folder: `task-3-calculator/`
+
+### ✅ Progress:
+- ✅ `index.html` structure complete  
+- ✅ `style.css` basic styling done  
+- ⏳ JavaScript logic in progress
 
 ---
 
 ### 👨‍💻 Built With:
 - HTML5
 - CSS3
-- Google Apps Script (for contact form backend)
+- JavaScript (Task 3 upcoming)  
+- Google Apps Script (for Task 1 contact form backend)
 - Visual Studio Code
 - Git & GitHub
 
