@@ -99,9 +99,13 @@ body {
   transform: scale(1.05);
 }
 
-.btn:active {
-  background-color: var(--btn-active);
+/* Neon pulse on press */
+.btn:active,
+.btn.active {
   transform: scale(0.95);
+  box-shadow: 0 0 20px var(--accent), 
+              0 0 40px var(--accent);
+  transition: transform 0.1s, box-shadow 0.1s;
 }
 
 /* ===== SPECIAL BUTTONS ===== */
@@ -109,6 +113,7 @@ body {
   color: var(--accent);
 }
 
+.btn.delete, 
 .btn.action {
   color: #ff4d4d;
 }

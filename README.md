@@ -28,23 +28,31 @@ A clean and responsive personal portfolio website built using **HTML and CSS**. 
 📂 Folder: `task-2-landing-page/`  
 Coming soon...
 
-## ⚒️ Task 3: Calculator  
+## ✅ Task 3: Calculator
 
-Basic calculator interface built using **HTML** and **CSS**. JavaScript functionality will be added next.
+A basic calculator built using **HTML**, **CSS**, and **JavaScript**, featuring an interactive interface for performing standard arithmetic operations.
+The calculator currently works flawlessly with mouse clicks. Keyboard input functionality and mobile responsiveness are under development.
 
 📂 Folder: `task-3-calculator/`
 
-### ✅ Progress:
-- ✅ `index.html` structure complete  
-- ✅ `style.css` basic styling done  
-- ⏳ JavaScript logic in progress
+### 🔹 Completed Features:
+- ✅ `index.html` structure  
+- ✅ `style.css` layout and styling  
+- ✅ `script.js` for button-based functionality
+- ✅ Fully styled calculator layout
+- ✅ All buttons functional with mouse clicks
+- ✅ Sound effects for click, delete, and reset
+
+> 🧮 Supports addition, subtraction, multiplication, division, and clear operations
+> ⌨️ Keyboard input: *In progress*
+> ⚠️ Mobile responsiveness: *Under refinement*
 
 ---
 
 ### 👨‍💻 Built With:
 - HTML5
 - CSS3
-- JavaScript (Task 3 upcoming)  
+- JavaScript (Task 3 in progress)  
 - Google Apps Script (for Task 1 contact form backend)
 - Visual Studio Code
 - Git & GitHub
