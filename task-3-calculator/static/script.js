@@ -4,8 +4,8 @@ const deleteSound = new Audio("static/sounds/delete.mp3");
 const resetSound = new Audio("static/sounds/reset.mp3");
 
 clickSound.volume = 0.7;
-deleteSound.volume = 0.3;
-resetSound.volume = 0.3;
+deleteSound.volume = 0.7;
+resetSound.volume = 0.7;
 
 // Selecting the display screen and all calculator buttons
 const display = document.getElementById("display");
