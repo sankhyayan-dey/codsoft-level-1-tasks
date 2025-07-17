@@ -4,12 +4,34 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Neon Calculator | CodSoft Internship</title>
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
     <link rel="stylesheet" href="static/css/style.css" />
   </head>
   <body>
     <section class="calculator-container">
       <div class="calculator">
         <header class="calculator-header">
+          <div class="theme-switcher">
+            <button class="theme-btn retro-theme" data-theme="theme-retro">
+              <i class="bx bx-game"></i> Retro
+            </button>
+            <button class="theme-btn mobile-theme" data-theme="theme-mobile">
+              <i class="bx bx-mobile-alt"></i> Mobile
+            </button>
+            <button
+              class="theme-btn cyberpunk-theme"
+              data-theme="theme-cyberpunk"
+            >
+              <i class="bx bx-rocket"></i> Cyberpunk
+            </button>
+            <button class="theme-btn reset-theme" id="reset-theme">
+              <i class="bx bx-reset"></i> Reset Theme
+            </button>
+          </div>
+
           <h1 class="title">Calculator</h1>
         </header>
 
