@@ -28,7 +28,7 @@ A clean and responsive personal portfolio website built using **HTML and CSS**. 
 📂 Folder: `task-2-landing-page/`  
 Coming soon...
 
-## ✅ Task 3: Calculator
+## ⚒️ Task 3: Calculator
 
 A basic calculator built using **HTML**, **CSS**, and **JavaScript**, featuring an interactive interface for performing standard arithmetic operations.
 The calculator currently works flawlessly with mouse clicks. Keyboard input functionality and mobile responsiveness are under development.
@@ -44,7 +44,9 @@ The calculator currently works flawlessly with mouse clicks. Keyboard input func
 - ✅ Sound effects for click, delete, and reset
 
 > 🧮 Supports addition, subtraction, multiplication, division, and clear operations
+>
 > ⌨️ Keyboard input: *In progress*
+>
 > ⚠️ Mobile responsiveness: *Under refinement*
 
 ---
