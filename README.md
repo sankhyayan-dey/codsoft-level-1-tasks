@@ -4,6 +4,13 @@ This repository contains the completed tasks for the **CodSoft Level 1 Web Devel
 
 ---
 
+## 📂 Tasks Overview
+- [✅ Task 1: Personal Portfolio Website](#-task-1-personal-portfolio-website)
+- [🚧 Task 2: Landing Page](#-task-2-landing-page)
+- [✅ Task 3: Calculator](#-task-3-calculator)
+
+---
+
 ## ✅ Task 1: Personal Portfolio Website
 
 A clean and responsive personal portfolio website built using **HTML and CSS**. It showcases personal information, projects, and a working contact form connected to **Google Sheets** using **Apps Script**.
@@ -19,9 +26,9 @@ A clean and responsive personal portfolio website built using **HTML and CSS**. 
 - ✅ Contact Section with Working Form (Google Sheets backend)
 - ✅ Footer with Social Links and Scroll to Top
 
-> 💡 Live Preview (optional): _Add GitHub Pages or Netlify link once hosted_
+> 💡 Live Preview: [Click to Open](https://sankhyayan-dey.github.io/codsoft-level-1-tasks/task-1-portfolio/)
 
-📌 **Status**: Task 1 is functionally complete — polishing responsiveness
+📌 **Status**: Task 1 is 100% complete and fully responsive ✅
 
 ---
 
@@ -39,13 +46,16 @@ A fully functional basic calculator built using **HTML**, **CSS**, and **JavaScr
 ### 🔹 Completed Features:
 
 - ✅ Fully styled calculator layout
-- ✅ All buttons functional with mouse clicks
+- ✅ All buttons are functional with mouse clicks
 - ✅ Keyboard support for number and operator input
 - ✅ Sound effects for click, delete, and reset
 - ✅ Responsive design (desktop & mobile)
+- ✅ Supports addition, subtraction, multiplication, division  
+- ✅ Smooth and engaging user experience with interactive feedback
 
-> 🧮 Supports addition, subtraction, multiplication, division  
-> 💬 Smooth and engaging user experience with interactive feedback
+> 💡 Live Preview: [Click to Open](https://sankhyayan-dey.github.io/codsoft-level-1-tasks/task-3-calculator/)
+
+📌 **Status**: Task 3 is 100% complete with responsive UI, keyboard/mouse inputs, and audio feedback ✅
 
 ---
 
