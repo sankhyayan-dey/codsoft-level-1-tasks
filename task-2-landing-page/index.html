@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WanderScape</title>
+    <link
+      href="https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css"
+      rel="stylesheet"
+    />
+
+    <link rel="stylesheet" href="static/css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@600&family=Open+Sans&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <!-- Hero Section -->
+
+    <section class="hero scroll-reveal" id="home">
+      <div class="hero-content">
+        <h1>Explore the World with <span class="brand">WanderScape</span></h1>
+        <p>Your journey to unforgettable destinations begins here.</p>
+        <div class="cta-buttons">
+          <a href="#destinations" class="cta-button primary">Start Exploring</a>
+          <a href="#about" class="cta-button secondary">Our Story</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- Top Destinations Section -->
+
+    <section class="destinations scroll-reveal" id="destinations">
+      <h2 class="section-title">Top Destinations</h2>
+      <div class="destination-grid">
+        <div class="destination-card">
+          <img src="static/images/paris.jpg" alt="Paris" />
+          <h3>Paris, France</h3>
+          <p>Romance, cafés & iconic Eiffel Tower vibes.</p>
+        </div>
+
+        <div class="destination-card">
+          <img src="static/images/bali.jpg" alt="Bali" />
+          <h3>Bali, Indonesia</h3>
+          <p>Serene beaches, temples & tropical escapes.</p>
+        </div>
+
+        <div class="destination-card">
+          <img src="static/images/swiss.jpg" alt="Swiss Alps" />
+          <h3>Swiss Alps</h3>
+          <p>Snowy peaks, lush valleys & alpine beauty.</p>
+        </div>
+
+        <div class="destination-card">
+          <img src="static/images/sahara.jpg" alt="Sahara Desert" />
+          <h3>Sahara Desert, Africa</h3>
+          <p>Golden dunes, nomadic culture, & endless horizons of sand.</p>
+        </div>
+
+        <div class="destination-card">
+          <img src="static/images/amazon.jpg" alt="Amazon Rainforest" />
+          <h3>Amazon Rainforest, South America</h3>
+          <p>Lush biodiversity, river cruises, & untamed jungle wonders.</p>
+        </div>
+
+        <div class="destination-card">
+          <img src="static/images/pantanal.jpg" alt="Pantanal Wetlands" />
+          <h3>Pantanal, Brazil</h3>
+          <p>The world's largest tropical wetlands, teeming with wildlife.</p>
+        </div>
+
+        <div class="destination-card">
+          <img src="static/images/salar.jpg" alt="Salar de Uyuni" />
+          <h3>Salar de Uyuni, Bolivia</h3>
+          <p>
+            A surreal salt flat that mirrors the sky during the rainy season.
+          </p>
+        </div>
+
+        <div class="destination-card">
+          <img src="static/images/hallstatt.jpg" alt="Hallstatt" />
+          <h3>Hallstatt, Austria</h3>
+          <p>
+            Charming lakeside village with fairytale architecture & alpine
+            serenity.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- About-Experiences Section -->
+
+    <section class="about-experiences scroll-reveal" id="about">
+      <div class="container">
+        <h2 class="section-title">
+          Why Choose <span class="brand">WanderScape</span>?
+        </h2>
+
+        <p class="section-description">
+          At WanderScape, we believe that travel is more than just visiting new
+          places - it's about creating memories that last a lifetime. From
+          breathtaking landscapes to culturally rich experiences, we curate
+          unforgettable journeys for every kind of traveler.
+        </p>
+
+        <div class="experience-highlights">
+          <div class="highlight">
+            <img
+              src="static/images/custom-itineraries.png"
+              alt="Custom Itineraries"
+            />
+            <h3>Custom Itineraries</h3>
+            <p>We tailor trips to match your pace and preferences.</p>
+          </div>
+          <div class="highlight">
+            <img src="static/images/hidden-gems.png" alt="Hidden Gems" />
+            <h3>Hidden Gems</h3>
+            <p>
+              Discover offbeat destinations known only to seasoned explorers.
+            </p>
+          </div>
+          <div class="highlight">
+            <img src="static/images/guide-support.png" alt="24/7 Support" />
+            <h3>24/7 Expert Support</h3>
+            <p>Our travel specialists are with you every step of the way.</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Testimonials Section -->
+
+    <section id="testimonials" class="testimonials scroll-reveal">
+      <h2 class="section-title">What Travelers Say</h2>
+      <div class="testimonial-container">
+        <div class="testimonial-card">
+          <p>
+            "WanderScape planned the perfect vacation for me! Everything from
+            the hotels to the experiences was magical."
+          </p>
+          <h4>— Ananya, India</h4>
+        </div>
+        <div class="testimonial-card">
+          <p>
+            "Best travel service I've ever used. Beaches, mountains,
+            culture—flawless memories!"
+          </p>
+          <h4>— Marcus, Australia</h4>
+        </div>
+        <div class="testimonial-card">
+          <p>
+            "Incredible team and planning. I saw places I never imagined I could
+            reach."
+          </p>
+          <h4>— Lina, Germany</h4>
+        </div>
+      </div>
+    </section>
+
+    <!-- Contact Section -->
+
+    <section class="contact scroll-reveal" id="contact">
+      <h2 class="section-title">Get in Touch</h2>
+      <form class="contact-form">
+        <input type="text" class="text" placeholder="Your Name" required />
+        <input
+          type="email"
+          class="email"
+          placeholder="Email Address"
+          required
+        />
+        <textarea rows="5" placeholder="Your Message" required></textarea>
+        <button type="submit" class="submit">Send Message</button>
+      </form>
+    </section>
+
+    <!-- Footer Section -->
+
+    <footer class="footer scroll-reveal">
+      <div class="footer-container">
+        <!-- Column 1: Logo and Copyright -->
+        <div class="footer-col">
+          <a href="#home"><h2 class="footer-logo">WanderScape</h2></a>
+          <p>&copy; 2025 WanderScape. <br />All rights reserved.</p>
+        </div>
+
+        <!-- Column 2: Social Media Icons -->
+        <div class="footer-col">
+          <h3>Connect With Us</h3>
+          <div class="footer-socials">
+            <a href="#"><i class="bx bxl-facebook"></i></a>
+            <a href="#"><i class="bx bxl-instagram"></i></a>
+            <a href="#"><i class="bx bxl-twitter"></i></a>
+            <a href="#"><i class="bx bxl-youtube"></i></a>
+          </div>
+        </div>
+
+        <!-- Column 3: Travel Quote / Newsletter -->
+        <div class="footer-col">
+          <h3>Travel Note</h3>
+          <p>"Not all those who wander are lost." <br />~ J.R.R. Tolkien</p>
+        </div>
+      </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="static/js/script.js"></script>
+  </body>
+</html>

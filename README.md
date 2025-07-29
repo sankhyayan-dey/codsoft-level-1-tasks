@@ -6,7 +6,7 @@ This repository contains the completed tasks for the **CodSoft Level 1 Web Devel
 
 ## 📂 Tasks Overview
 - [✅ Task 1: Personal Portfolio Website](#-task-1-personal-portfolio-website)
-- [🚧 Task 2: Landing Page](#-task-2-landing-page)
+- [✅ Task 2: Landing Page](#-task-2-landing-page)
 - [✅ Task 3: Calculator](#-task-3-calculator)
 
 ---
@@ -32,10 +32,26 @@ A clean and responsive personal portfolio website built using **HTML and CSS**. 
 
 ---
 
-## 🚧 Task 2: Landing Page
+## ✅ Task 2: WanderScape Landing Page
 
-📂 Folder: `task-2-landing-page/`  
-Coming soon...
+A modern and visually immersive **travel-themed landing page** designed to spark wanderlust and inspire unforgettable journeys across the globe.
+
+📂 Folder: `task-2-landing-page/`
+
+### 🔹 Completed Features:
+
+- ✅ Fullscreen Hero Section with CTA  
+- ✅ Top Destinations with Location Highlights  
+- ✅ About WanderScape & the Unforgettable Experiences: Brand Purpose & Mission  
+- ✅ Travel Testimonials Carousel  
+- ✅ Contact Section
+- ✅ Beautifully Designed Footer  
+
+> 💡 Live Preview: [Click to Open](https://sankhyayan-dey.github.io/codsoft-level-1-tasks/task-2-landing-page/)
+
+📌 **Status**: Task 2 is 100% complete and fully responsive ✅
+
+---
 
 ## ✅ Task 3: Calculator
 
