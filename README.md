@@ -6,7 +6,7 @@ This repository contains the completed tasks for the **CodSoft Level 1 Web Devel
 
 ## 📂 Tasks Overview
 - [✅ Task 1: Personal Portfolio Website](#-task-1-personal-portfolio-website)
-- [✅ Task 2: WanderScape Landing Page](#-task-2-landing-page)
+- [✅ Task 2: Landing Page](#-task-2-wanderscape-landing-page)
 - [✅ Task 3: Calculator](#-task-3-calculator)
 
 ---
